@@ -13,4 +13,10 @@ Cada etapa é encapsulada em uma classe, promovendo modularidade, reutilização
 ## Bibliotecas Python
 
 - json
-- csv 
+- csv
+ 
+---
+ 
+## Instalações
+- pip install requests==2.28.2
+- pip install pandas==2.0.0
